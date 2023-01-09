@@ -1,6 +1,6 @@
 {
-  "name": "object-to-formdata",
-  "version": "4.4.2",
+  "name": "object-to-formdata-tz",
+  "version": "4.4.3",
   "keywords": [
     "form",
     "formdata",
@@ -9,7 +9,7 @@
     "object-to-formdata",
     "submit"
   ],
-  "repository": "github:therealparmesh/object-to-formdata",
+  "repository": "github:sylvainbx/object-to-formdata",
   "license": "MIT",
   "author": "Parmesh Krishen",
   "main": "src",
